@@ -328,9 +328,6 @@ function displayMealDetails(meal) {
                 </ul>
 
                 <h3>Tags :</h3>
-                <ul class="list-unstyled d-flex g-3 flex-wrap">
-                    ${tagsStr}
-                </ul>
 
                 <a target="_blank" href="${meal.strSource}" class="btn btn-success">Source</a>
                 <a target="_blank" href="${meal.strYoutube}" class="btn btn-danger">Youtube</a>
