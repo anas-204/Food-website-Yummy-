@@ -7,7 +7,6 @@
 
 -   🥗 **Recipe Search**: Search for recipes by ingredients, cuisine, or meal type.
 -   🍕 **Recipe Details**: View detailed recipe instructions, ingredients, and preparation steps.
--   ⭐ **Favorites**: Save your favorite recipes for quick access.
 -   📱 **Responsive Design**: Optimized for mobile, tablet, and desktop views.
 -   🎨 **Modern UI**: Built with a clean, user-friendly interface.
 
@@ -16,8 +15,8 @@
 -   **HTML5**: Structure and content of the web pages.
 -   **CSS3**: Styling and layout using Flexbox, Grid, and media queries.
 -   **JavaScript (ES6+)**: Interactivity and functionality (e.g., search, dynamic content).
--   **React.js**: (Optional) A component-based library for building dynamic user interfaces.
 -   **API Integration**: Fetching recipe data from a public API (e.g., Spoonacular, Edamam).
+-   **JQuery**: Making effects.
 
 ## Learning Goals
 
